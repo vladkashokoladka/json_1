@@ -1,1 +1,4 @@
-test
+"my_name": "Vladislava Malanchuk",
+"age": "28",
+"animal": "nan",
+"value salary": "money"
